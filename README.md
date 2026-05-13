@@ -45,3 +45,5 @@ The later questions (10–14) involve window functions like LAG, DENSE_RANK, rol
 
 ### **Notes**
 * This was a personal project I built to get more comfortable with SQL analytics and connecting it to Python. The dataset is publicly available and inspired by Target's e-commerce operations in Brazil (originally from Kaggle/OLIST). Nothing is production-ready — it's meant as a learning exercise and portfolio piece.
+
+### Rishav Raj
